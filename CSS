@@ -28,14 +28,12 @@ body {
  */
 
  .banner-wrap {
-     background-image: url();
+     background-image: url(https://github.com/Akila-bite/bootstrap-portfolio/blob/master/assests/banner%20image.webp);
      background-size: cover;
      background-repeat: no-repeat;
      background-position: center;
-     
-     border-bottom: 10px solid #222;
      position: relative;
-     z-index: 1;
+     z-index: 5;
  }
  .overlay {
      z-index: -1;
